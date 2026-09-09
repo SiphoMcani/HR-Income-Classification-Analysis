@@ -1,4 +1,4 @@
-# HR-Income-Classification-Analysis
+# HR-Income-Classification-Analysis with Apache Spark
 Machine learning analysis of demographic and employment data to classify individuals earning above or below $50K annually using Decision Tree and Random Forest models.
 ## Problem Statement
 The goal is to classify individuals into one of two income categories:
